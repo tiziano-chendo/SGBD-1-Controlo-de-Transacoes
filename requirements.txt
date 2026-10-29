@@ -1,0 +1,3 @@
+# Única dependência instalável com pip. O tkinter vem com o Python
+# (em Linux: sudo apt install python3-tk); não se instala com pip.
+pymssql>=2.3
